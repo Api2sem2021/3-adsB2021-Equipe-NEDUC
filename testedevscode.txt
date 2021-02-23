@@ -1,7 +1,0 @@
-djadneandcea
-git add remote NEDUC https://github.com/DevSlim001/API_NEDUC.git
-git add "Nome do arquivo" 
-git commit -m "Mensagem do commit"
-git push
-
-suhduhahdsuhaudhsuubdwbadwsadsaq
