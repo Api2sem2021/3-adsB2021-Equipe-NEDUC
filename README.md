@@ -23,7 +23,7 @@
 Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
 
 --------------------------------------------------------------------------------------------------------------------
-[Telas no Figma]()
+[Telas no Figma](https://www.figma.com/file/LC5TNbjqezxXsIDzmS2oJX/nEDUC---MOBILE?node-id=0%3A1)
 
 --------------------------------------------------------------------------------------------------------------------
 
