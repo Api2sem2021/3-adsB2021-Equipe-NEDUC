@@ -6,11 +6,13 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
+
+import lombok.Builder;
 import lombok.Data;
 
 @Entity
 @Table(name = "professor", schema = "public")
-
+@Builder
 @Data
 public class professor {
 
@@ -33,5 +35,8 @@ public class professor {
 		
 	@Column(name = "genero", length = 9)
 	private String genero;
+	
+	@Column(name = "senha", length = 12)
+	private String senha;
 }
 
