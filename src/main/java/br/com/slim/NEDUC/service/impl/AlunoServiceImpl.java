@@ -5,20 +5,20 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.slim.NEDUC.entity.aluno;
 import br.com.slim.NEDUC.exception.ErroAutenticacao;
 import br.com.slim.NEDUC.exception.RegraNegocioException;
-import br.com.slim.NEDUC.repository.Aluno;
+import br.com.slim.NEDUC.model.entity.aluno;
+import br.com.slim.NEDUC.model.repository.AlunoRepository;
 import br.com.slim.NEDUC.service.AlunoService;
 
 @Service
 public class AlunoServiceImpl implements AlunoService {
 
 	
-	private Aluno repository;
+	private AlunoRepository repository;
 	
 	@Autowired
-	public AlunoServiceImpl(Aluno repository) {
+	public AlunoServiceImpl(AlunoRepository repository) {
 		super();
 		this.repository = repository;
 	}

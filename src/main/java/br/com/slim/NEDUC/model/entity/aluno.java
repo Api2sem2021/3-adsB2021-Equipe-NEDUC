@@ -1,4 +1,4 @@
-package br.com.slim.NEDUC.entity;
+package br.com.slim.NEDUC.model.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

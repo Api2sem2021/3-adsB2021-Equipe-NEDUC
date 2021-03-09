@@ -1,6 +1,6 @@
 package br.com.slim.NEDUC.service;
 
-import br.com.slim.NEDUC.entity.professor;
+import br.com.slim.NEDUC.model.entity.professor;
 
 public interface ProfessorService {
 

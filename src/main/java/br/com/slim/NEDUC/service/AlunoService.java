@@ -1,6 +1,6 @@
 package br.com.slim.NEDUC.service;
 
-import br.com.slim.NEDUC.entity.aluno;
+import br.com.slim.NEDUC.model.entity.aluno;
 
 public interface AlunoService {
 
