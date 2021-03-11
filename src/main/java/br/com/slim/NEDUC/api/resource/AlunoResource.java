@@ -2,6 +2,7 @@ package br.com.slim.NEDUC.api.resource;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -16,10 +17,15 @@ import br.com.slim.NEDUC.service.AlunoService;
 @RequestMapping("/api/alunos")
 public class AlunoResource {
 		
-private AlunoService service;
+	private AlunoService service;
 	
 	public AlunoResource( AlunoService service ) {
 		this.service = service;
+	}
+	
+	@GetMapping("/api/alunos/ola")
+	public String helloaluno() {
+		return "Olá aluno";
 	}
 	
 	@PostMapping

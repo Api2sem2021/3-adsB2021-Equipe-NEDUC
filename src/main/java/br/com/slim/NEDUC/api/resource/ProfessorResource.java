@@ -22,6 +22,7 @@ public class ProfessorResource {
 		this.service = service;
 	}
 	
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	@PostMapping
 	public ResponseEntity salvar( @RequestBody ProfessorDto dto) {
 	

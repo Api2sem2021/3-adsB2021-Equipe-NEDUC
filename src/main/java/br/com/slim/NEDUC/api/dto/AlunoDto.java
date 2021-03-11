@@ -9,7 +9,8 @@ import lombok.Setter;
 @Builder
 public class AlunoDto {
 
-	private String email;
+
 	private String nome;
+	private String email;
 	private String senha;
 }

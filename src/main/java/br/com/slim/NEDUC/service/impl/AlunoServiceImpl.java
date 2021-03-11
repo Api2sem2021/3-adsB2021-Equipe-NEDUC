@@ -14,10 +14,10 @@ import br.com.slim.NEDUC.service.AlunoService;
 @Service
 public class AlunoServiceImpl implements AlunoService {
 
-	
+	@Autowired
 	private AlunoRepository repository;
 	
-	@Autowired
+	
 	public AlunoServiceImpl(AlunoRepository repository) {
 		super();
 		this.repository = repository;
