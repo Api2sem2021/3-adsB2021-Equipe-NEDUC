@@ -19,11 +19,11 @@ public class AlunoRepositoryTeste {
 	
 	public void DeveVerificarAExistenciaDeUmEmail() {
 		//cenario
-		aluno Aluno = aluno.builder().nome("Teste").email("aluno.teste@gmail.com").build();
+		aluno Aluno = aluno.builder().nome("Victor").email("victor.teste@gmail.com").build();
 		Repository.save(Aluno);
 		
 		//execução
-		boolean resultado = Repository.existsByemail("aluno.teste@gmail.com");
+		boolean resultado = Repository.existsByemail(Aluno.getEmail());
 		
 		//verificação
 		Assertions.assertThat(resultado).isTrue();

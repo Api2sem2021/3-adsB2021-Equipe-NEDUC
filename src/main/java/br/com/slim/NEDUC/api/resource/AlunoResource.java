@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.slim.NEDUC.api.dto.AlunoDto;
+import br.com.slim.NEDUC.exception.ErroAutenticacao;
 import br.com.slim.NEDUC.exception.RegraNegocioException;
 import br.com.slim.NEDUC.model.entity.aluno;
 import br.com.slim.NEDUC.service.AlunoService;
@@ -23,9 +24,21 @@ public class AlunoResource {
 		this.service = service;
 	}
 	
-	@GetMapping("/api/alunos/ola")
+	@GetMapping("/index")
 	public String helloaluno() {
-		return "Olá aluno";
+		return "Index.html";
+	}
+	
+	@PostMapping("/login")
+	public ResponseEntity autenticar(@RequestBody AlunoDto dto) {
+		
+		try {
+			aluno aluno_autenticado = service.autenticar_aluno(dto.getEmail(), dto.getSenha());
+			return ResponseEntity.ok(aluno_autenticado);
+		}catch (ErroAutenticacao e) {
+			return ResponseEntity.badRequest().body(e.getMessage());
+		}
+		
 	}
 	
 	@PostMapping
@@ -43,4 +56,6 @@ public class AlunoResource {
 			}
 		
 	}
+	
+	
 }

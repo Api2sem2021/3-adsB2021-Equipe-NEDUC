@@ -1,5 +1,7 @@
 package br.com.slim.NEDUC.model.entity;
 
+import java.sql.Date;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -16,6 +18,8 @@ import lombok.Data;
 @Data
 public class aluno {
 
+	public aluno() {}
+	
 	@Id
 	@Column(name = "id")
 	@GeneratedValue( strategy = GenerationType.IDENTITY )
@@ -27,7 +31,8 @@ public class aluno {
 	@Column(name = "celular", length = 11)
 	private String celular;
 	
-	
+	@Column(name = "nascimento")
+	private Date nascimento;
 	@Column(name = "genero", length = 9)
 	private String genero;
 	
@@ -36,4 +41,6 @@ public class aluno {
 	
 	@Column(name = "email", length = 50)
 	private String email;
+	
+	
 }
