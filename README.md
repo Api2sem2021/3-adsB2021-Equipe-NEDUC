@@ -47,7 +47,7 @@ Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tant
 --------------------------------------------------------------------------------------------------------------------
 ## Backlog
 
-[Backlog](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Product%20Backlog.pdf)
+[Backlog](https://github.com/DevSlim001/API_NEDUC/blob/main/Processo/Backlog.docx)
 
 --------------------------------------------------------------------------------------------------------------------
 
