@@ -15,34 +15,34 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name = "professor", schema = "public")
-@Builder
+@Table(name = "gestor")
 @Data
-@NoArgsConstructor 
+@Builder
 @AllArgsConstructor
-public class professor {
+@NoArgsConstructor
+public class Gestor {
 
 	@Id
-	@Column(name = "id")
+	@Column(name= "id")
 	@GeneratedValue( strategy = GenerationType.IDENTITY )
 	private Long id;
-		
-	@Column(name = "nome", length = 50)
+	
+	@Column(name= "nome")
 	private String nome;
-		
-	@Column(name = "email", length = 50)
-	private String email;
-		
-	@Column(name = "celular", length = 11)
+	
+	@Column(name= "celular")
 	private String celular;
-		
-	@Column(name = "nascimento")
+	
+	@Column(name= "nascimento")
 	private Date nascimento;
-		
-	@Column(name = "genero", length = 9)
+	
+	@Column(name = "genero")
 	private String genero;
 	
-	@Column(name = "senha", length = 12)
+	@Column(name = "senha")
 	private String senha;
-}
+	
+	@Column(name = "email")
+	private String email;
 
+}

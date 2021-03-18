@@ -9,16 +9,18 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
 @Table(name = "alunos")
 @Builder
 @Data
+@NoArgsConstructor 
+@AllArgsConstructor
 public class aluno {
-
-	public aluno() {}
 	
 	@Id
 	@Column(name = "id")
@@ -33,6 +35,7 @@ public class aluno {
 	
 	@Column(name = "nascimento")
 	private Date nascimento;
+	
 	@Column(name = "genero", length = 9)
 	private String genero;
 	
@@ -41,6 +44,4 @@ public class aluno {
 	
 	@Column(name = "email", length = 50)
 	private String email;
-	
-	
 }

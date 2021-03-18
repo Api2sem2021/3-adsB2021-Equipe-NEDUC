@@ -20,6 +20,7 @@ public class AlunoResource {
 		
 	private AlunoService service;
 	
+	
 	public AlunoResource( AlunoService service ) {
 		this.service = service;
 	}
@@ -29,6 +30,7 @@ public class AlunoResource {
 		return "Index.html";
 	}
 	
+	@SuppressWarnings({ "rawtypes" })
 	@PostMapping("/login")
 	public ResponseEntity autenticar(@RequestBody AlunoDto dto) {
 		
@@ -41,6 +43,7 @@ public class AlunoResource {
 		
 	}
 	
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	@PostMapping
 	public ResponseEntity salvar( @RequestBody AlunoDto dto) {
 	
