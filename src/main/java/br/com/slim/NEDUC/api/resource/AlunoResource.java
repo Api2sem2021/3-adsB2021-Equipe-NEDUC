@@ -14,6 +14,7 @@ import br.com.slim.NEDUC.exception.RegraNegocioException;
 import br.com.slim.NEDUC.model.entity.aluno;
 import br.com.slim.NEDUC.service.AlunoService;
 
+
 @RestController
 @RequestMapping("/api/alunos")
 public class AlunoResource {
@@ -27,7 +28,7 @@ public class AlunoResource {
 	
 	@GetMapping("/index")
 	public String helloaluno() {
-		return "Index.html";
+		return "Index";
 	}
 	
 	@SuppressWarnings({ "rawtypes" })
