@@ -59,7 +59,7 @@ _Link para mostrar os arquivo do Banco de dados._
 
 :man_technologist: Tecnologias utilizadas
 
-![Tecnologias utilizadas](C:\Users\Brenno\Downloads\Tecnologias utilizadas.png)
+![Tecnologias utilizadas](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/Tecnologias%20utilizadas.png)
 
 ----------------------------
 
