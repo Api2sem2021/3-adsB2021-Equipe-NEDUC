@@ -33,7 +33,7 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 
 
 
-[Clique para visualizar o Backlog total] (https://drive.google.com/file/d/1DXNG6m5TAhoHdeisg2suA9b_R5UXp1fN/view?usp=sharing)
+(https://drive.google.com/file/d/1DXNG6m5TAhoHdeisg2suA9b_R5UXp1fN/view?usp=sharing "Clique para visualizar o Bcklog total")
 
 --------------------------------------------------------------------------------------------------------------------
 :desktop_computer: [Telas no Figma]
