@@ -67,7 +67,7 @@ _Link para mostrar os arquivo do Banco de dados._
 
 ### **DevTeam:**
 
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
-- **Back- end** *(Renan Alves de Medeiros, Camila Pacheco e Victor Gabriel Melo)*
+- **Front-end** *(<a href="https://github.com/brennorichard" target="__blank">Brenno Richard Rabelo de Almeida</a>, <a href="https://github.com/Rafael-BD" target="__blank">Rafael Bettini Dias</a>, <a href="https://github.com/nicursino" target="__blank">Nicolas Cursino Magarifuchi</a>)*
+- **Back- end** *(<a href="https://github.com/medrenan" target="__blank">Renan Alves de Medeiros</a>, <a href="https://github.com/camilaffpacheco" target="__blank">Camila Pacheco</a> e <a href="https://github.com/VGabrielMelo" target="__blank">Victor Gabriel Melo</a>)*
 
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa)*
+- **Banco de dados** *(<a href="https://github.com/CristianMateusTB" target="__blank">Cristian Mateus Teixeira Barbosa</a>)*
