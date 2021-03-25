@@ -6,7 +6,7 @@
 
 
 
-![CARD0](C:\Users\Brenno\Downloads\CARD0.png)
+![CARD0](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/CARD0.png)
 
 
 
@@ -63,7 +63,90 @@ _Link para mostrar o arquivo das telas de login e cadastro._
 :dart: [Banco de dados]
 
 _Link para mostrar os arquivo do Banco de dados._
+### Representação do Banco de dados ###
+![BD](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/Banco_de_dados_sprint0.jpeg)
 
+### Código SQL ###
+
+#### Aluno ####
+
+CREATE TABLE public.alunos
+(
+    id integer NOT NULL DEFAULT nextval('clientes_id_seq'::regclass),
+    nome character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    celular character(11) COLLATE pg_catalog."default",
+    genero character varying(9) COLLATE pg_catalog."default",
+    senha character varying(12) COLLATE pg_catalog."default",
+    email character varying(50) COLLATE pg_catalog."default",
+    nascimento date,
+    CONSTRAINT clientes_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.alunos
+    OWNER to postgres;
+    
+    
+#### Professor ####
+
+CREATE TABLE public.professores
+(
+    id integer NOT NULL DEFAULT nextval('professores_id_seq'::regclass),
+    nome character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    celular character varying(11) COLLATE pg_catalog."default" NOT NULL,
+    nascimento date NOT NULL,
+    genero character varying(9) COLLATE pg_catalog."default" NOT NULL,
+    senha character varying(20) COLLATE pg_catalog."default" NOT NULL,
+    email character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT professores_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.professores
+    OWNER to postgres;
+    
+    
+#### Administrador ####
+
+CREATE TABLE public.administrador
+(
+    id integer NOT NULL DEFAULT nextval('clientes_id_seq'::regclass),
+    nome character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    celular character(11) COLLATE pg_catalog."default",
+    genero character varying(9) COLLATE pg_catalog."default",
+    senha character varying(12) COLLATE pg_catalog."default",
+    email character varying(50) COLLATE pg_catalog."default",
+    nascimento date,
+    CONSTRAINT adm_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.administrador
+    OWNER to postgres;
+    
+    
+#### Gestor ####
+
+CREATE TABLE public.gestor
+(
+    id integer NOT NULL DEFAULT nextval('clientes_id_seq'::regclass),
+    nome character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    celular character(11) COLLATE pg_catalog."default",
+    genero character varying(9) COLLATE pg_catalog."default",
+    senha character varying(12) COLLATE pg_catalog."default",
+    email character varying(50) COLLATE pg_catalog."default",
+    nascimento date,
+    CONSTRAINT gestor_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.gestor
+    OWNER to postgres;
+    
 -------------------------------------------------
 
 :man_technologist: [Tecnologias utilizadas]
