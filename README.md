@@ -64,7 +64,6 @@ _Link para mostrar o arquivo das telas de login e cadastro._
 --------------------------------------------------------------------------------------------------------------------
 :dart: Banco de dados
 
-_Link para mostrar os arquivo do Banco de dados._
 ### Representação do Banco de dados ###
 ![BD](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/Banco_de_dados_sprint0.jpeg)
 
