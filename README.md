@@ -29,7 +29,7 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 
 :book: Backlog da Sprint
 
-[<img src="https://github.com/DevSlim001/API_NEDUC/blob/spint0/readassets/CARD0.png"
+[<img src="https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/CARD0.png"
 
 
 
