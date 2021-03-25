@@ -6,7 +6,7 @@
 
 
 
-![CARD0](C:\Users\Brenno\Downloads\CARD0.png)
+![CARD0](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/CARD0.png)
 
 
 
