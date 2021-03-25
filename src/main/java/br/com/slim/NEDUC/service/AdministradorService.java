@@ -1,18 +1,22 @@
 package br.com.slim.NEDUC.service;
 
 import br.com.slim.NEDUC.model.entity.Administrador;
-import br.com.slim.NEDUC.model.entity.aluno;
-import br.com.slim.NEDUC.model.entity.professor;
 
 public interface AdministradorService {
 
 	Administrador autenticar_adm(String email, String senha);
 	
-	Administrador salvar_aluno(Administrador Adm);
+	Administrador salvar_aluno(Administrador aluno);
 	
-	aluno salvar_aluno(aluno Aluno);
-	
-	professor salvar_professor(professor Professor);
+	Administrador salvar_professor(Administrador adm);
 	
 	void validaremail_adm(String email);
+	
+	void validaremail_aluno(String email);
+	
+	void validaremail_professor(String email);
+
+	
+
+
 }

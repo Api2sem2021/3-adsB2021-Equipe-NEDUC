@@ -5,6 +5,7 @@ import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import br.com.slim.NEDUC.model.entity.Administrador;
+import br.com.slim.NEDUC.model.entity.aluno;
 
 public interface AdministradorRepository extends JpaRepository<Administrador, Long> {
 
@@ -13,5 +14,10 @@ public interface AdministradorRepository extends JpaRepository<Administrador, Lo
 	
 	// boolean
 	boolean existsByemail(String email);
+
+	aluno save(aluno aluno);
+
+	
+
 
 } 
