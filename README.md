@@ -29,7 +29,7 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 
 :book: Backlog da Sprint
 
-![Cópia de Tecnologias utilizadas](C:\Users\Brenno\Downloads\Cópia de Tecnologias utilizadas.png)
+![Cópia de Tecnologias utilizadas](https://drive.google.com/file/d/1WRiz1WxQLQ8IQ0oHZkcxTcl29CZgsHCO/view?usp=sharing)
 
 
 
