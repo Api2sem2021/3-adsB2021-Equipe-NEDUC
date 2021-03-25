@@ -31,6 +31,8 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 
 ![Cópia de Tecnologias utilizadas](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/C%C3%B3pia%20de%20Tecnologias%20utilizadas.png)
 
+<a href="https://drive.google.com/file/d/1DXNG6m5TAhoHdeisg2suA9b_R5UXp1fN/view?usp=sharing" target="__blank">Clique para visualizar o Backlog total</a>
+
 --------------------------------------------------------------------------------------------------------------------
 :desktop_computer: [Telas no Figma]
 
@@ -159,7 +161,7 @@ ALTER TABLE public.gestor
 
 ### **DevTeam:**
 
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
-- **Back- end** *(Renan Alves de Medeiros, Camila Pacheco e Victor Gabriel Melo)*
+- **Front-end** *(<a href="https://github.com/brennorichard" target="__blank">Brenno Richard Rabelo de Almeida</a>, <a href="https://github.com/Rafael-BD" target="__blank">Rafael Bettini Dias</a>, <a href="https://github.com/nicursino" target="__blank">Nicolas Cursino Magarifuchi</a>)*
+- **Back- end** *(<a href="https://github.com/medrenan" target="__blank">Renan Alves de Medeiros</a>, <a href="https://github.com/camilaffpacheco" target="__blank">Camila Pacheco</a> e <a href="https://github.com/VGabrielMelo" target="__blank">Victor Gabriel Melo</a>)*
 
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+- **Banco de dados** *(<a href="https://github.com/CristianMateusTB" target="__blank">Cristian Mateus Teixeira Barbosa</a>)*
