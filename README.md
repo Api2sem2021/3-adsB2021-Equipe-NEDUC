@@ -27,9 +27,9 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 
 ---------------
 
-:book: [Backlog]
+:book: Backlog
 
-_Link para mostrar o arquivo do Backlog, em um arquivo online._
+![Cópia de Tecnologias utilizadas](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/C%C3%B3pia%20de%20Tecnologias%20utilizadas.png)
 
 --------------------------------------------------------------------------------------------------------------------
 :desktop_computer: [Telas no Figma]
@@ -37,7 +37,7 @@ _Link para mostrar o arquivo do Backlog, em um arquivo online._
 _Link para mostrar as telas realizadas no próprio figma._
 
 --------------------------------------------------------------------------------------------------------------------
-:package: [Modelagem de dados]
+:package: Modelagem de dados
 
 ### Entidades ###
 ![Entidades](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/Entidades.png)
@@ -60,7 +60,7 @@ _Link para mostrar as telas realizadas no próprio figma._
 _Link para mostrar o arquivo das telas de login e cadastro._
 
 --------------------------------------------------------------------------------------------------------------------
-:dart: [Banco de dados]
+:dart: Banco de dados
 
 _Link para mostrar os arquivo do Banco de dados._
 ### Representação do Banco de dados ###
@@ -149,9 +149,9 @@ ALTER TABLE public.gestor
     
 -------------------------------------------------
 
-:man_technologist: [Tecnologias utilizadas]
+:man_technologist: Tecnologias utilizadas
 
-_Link para mostrar as tecnologias utilizadas._
+![Tecnologias utilizadas](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/Tecnologias%20utilizadas.png)
 
 ----------------------------
 
