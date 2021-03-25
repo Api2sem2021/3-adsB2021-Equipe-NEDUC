@@ -27,9 +27,13 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 
 ---------------
 
-:book: [Backlog]
+:book: Backlog da Sprint
 
-_Link para mostrar o arquivo do Backlog, em um arquivo online._
+![Cópia de Tecnologias utilizadas](C:\Users\Brenno\Downloads\Cópia de Tecnologias utilizadas.png)
+
+
+
+[Clique para visualizar o Backlog total] (https://drive.google.com/file/d/1DXNG6m5TAhoHdeisg2suA9b_R5UXp1fN/view?usp=sharing)
 
 --------------------------------------------------------------------------------------------------------------------
 :desktop_computer: [Telas no Figma]
@@ -53,9 +57,9 @@ _Link para mostrar os arquivo do Banco de dados._
 
 -------------------------------------------------
 
-:man_technologist: [Tecnologias utilizadas]
+:man_technologist: Tecnologias utilizadas
 
-_Link para mostrar as tecnologias utilizadas._
+![Tecnologias utilizadas](C:\Users\Brenno\Downloads\Tecnologias utilizadas.png)
 
 ----------------------------
 
@@ -66,4 +70,4 @@ _Link para mostrar as tecnologias utilizadas._
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 - **Back- end** *(Renan Alves de Medeiros, Camila Pacheco e Victor Gabriel Melo)*
 
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+- **Banco de dados** *(Cristian Mateus Teixeira Barbosa)*
