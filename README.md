@@ -41,11 +41,6 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 _Link para mostrar as telas realizadas no próprio figma._
 
 --------------------------------------------------------------------------------------------------------------------
-:package: [Modelagem de dados]
-
-_Link para mostrar o arquivo da modelagem de dados._
-
---------------------------------------------------------------------------------------------------------------------
 :desktop_computer: [Telas de Login e Cadastro]
 
 _Link para mostrar o arquivo das telas de login e cadastro._
