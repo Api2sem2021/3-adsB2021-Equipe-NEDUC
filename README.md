@@ -16,7 +16,6 @@
 
 - [x] Backlog (total e da sprint);
 - [x] Wireframes (Figma);
-- [x] Modelagem de dados;
 - [x] Telas de Login e cadastro;
 - [x] Tabelas do Banco de dados;
 - [x] Escolha de tecnologias a serem utilizadas;
