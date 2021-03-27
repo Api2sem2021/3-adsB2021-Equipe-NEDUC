@@ -28,7 +28,7 @@ public class AlunoResource {
 	
 	@GetMapping("/index")
 	public String helloaluno() {
-		return "Index";
+		return "Futuramente essa vai ser a página home";
 	}
 	
 	@SuppressWarnings({ "rawtypes" })
@@ -45,11 +45,14 @@ public class AlunoResource {
 	}
 	
 	@SuppressWarnings({ "rawtypes", "unchecked" })
-	@PostMapping
+	@PostMapping("/cadastro")
 	public ResponseEntity salvar( @RequestBody AlunoDto dto) {
 	
 		aluno Aluno = aluno.builder()
 				.nome(dto.getNome())
+				.celular(dto.getCelular())
+				.nascimento(dto.getNascimento())
+				.genero(dto.getGenero())
 				.email(dto.getEmail())
 				.senha(dto.getSenha()).build();
 		try {

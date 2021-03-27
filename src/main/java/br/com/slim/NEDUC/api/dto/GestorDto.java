@@ -10,6 +10,9 @@ import lombok.Setter;
 public class GestorDto {
 
 	private String nome;
-	private String email;
+	private String celular;
+	private String nascimento;
+	private String genero;
 	private String senha;
+	private String email;
 }

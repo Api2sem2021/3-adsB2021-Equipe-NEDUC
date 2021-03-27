@@ -6,7 +6,7 @@ public interface AdministradorService {
 
 	Administrador autenticar_adm(String email, String senha);
 	
-	Administrador salvar_aluno(Administrador aluno);
+	Administrador salvar_aluno(Administrador adm);
 	
 	Administrador salvar_professor(Administrador adm);
 	

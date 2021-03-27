@@ -11,6 +11,9 @@ public class AlunoDto {
 
 
 	private String nome;
-	private String email;
+	private String celular;
+	private String nascimento;
+	private String genero;
 	private String senha;
+	private String email;
 }

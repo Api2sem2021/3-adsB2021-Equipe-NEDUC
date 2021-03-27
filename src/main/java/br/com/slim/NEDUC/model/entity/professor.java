@@ -1,7 +1,5 @@
 package br.com.slim.NEDUC.model.entity;
 
-import java.sql.Date;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -15,7 +13,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name = "professor", schema = "public")
+@Table(name = "professores", schema = "public")
 @Builder
 @Data
 @NoArgsConstructor 
@@ -37,7 +35,7 @@ public class professor {
 	private String celular;
 		
 	@Column(name = "nascimento")
-	private Date nascimento;
+	private String nascimento;
 		
 	@Column(name = "genero", length = 9)
 	private String genero;

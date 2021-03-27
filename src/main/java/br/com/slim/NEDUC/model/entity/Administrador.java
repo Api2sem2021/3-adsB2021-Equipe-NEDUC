@@ -1,7 +1,5 @@
 package br.com.slim.NEDUC.model.entity;
 
-import java.sql.Date;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -34,7 +32,7 @@ public class Administrador {
 	private String celular;
 	
 	@Column(name= "nascimento")
-	private Date nascimento;
+	private String nascimento;
 	
 	@Column(name = "genero")
 	private String genero;

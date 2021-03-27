@@ -28,7 +28,7 @@ public class AdministradorServiceImpl implements AdministradorService {
 		
 		Optional<Administrador> adm = repository.findByemail(email);
 		 
-		 if (adm.isPresent()) {
+		 if (!adm.isPresent()) {
 			 throw new ErroAutenticacao("Usuário não encotrado. ");
 		 }
 		 
@@ -51,9 +51,9 @@ public class AdministradorServiceImpl implements AdministradorService {
 	
 	
 	@Override
-	public Administrador salvar_aluno(Administrador aluno) {
-		validaremail_aluno(aluno.getEmail());
-		return repository.save(aluno);
+	public Administrador salvar_aluno(Administrador adm) {
+		validaremail_aluno(adm.getEmail());
+		return repository.save(adm);
 	}
 
 	@Override

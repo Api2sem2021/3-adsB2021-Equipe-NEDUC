@@ -9,7 +9,11 @@ import lombok.Setter;
 @Builder
 public class ProfessorDto {
 
-	private String email;
 	private String nome;
+	private String celular;
+	private String nascimento;
+	private String genero;
 	private String senha;
+	private String email;
+	
 }

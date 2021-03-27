@@ -9,31 +9,30 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.slim.NEDUC.api.dto.AdministradorDto;
-import br.com.slim.NEDUC.api.dto.AlunoDto;
 import br.com.slim.NEDUC.exception.ErroAutenticacao;
 import br.com.slim.NEDUC.exception.RegraNegocioException;
 import br.com.slim.NEDUC.model.entity.Administrador;
 import br.com.slim.NEDUC.service.AdministradorService;
 
-	@RestController
-	@RequestMapping("/api/adm")
+	
+@RestController
+@RequestMapping("/api/adm")
 	public class AdministradorResource {
 			
 		private AdministradorService service;
-		
 		
 		public AdministradorResource( AdministradorService service ) {
 			this.service = service;
 		}
 		
 		@GetMapping("/index")
-		public String helloaluno() {
-			return "Index";
+		public String helloadm() {
+			return "Página home";
 		}
 		
 		@SuppressWarnings({ "rawtypes" })
 		@PostMapping("/login")
-		public ResponseEntity autenticar(@RequestBody AlunoDto dto) {
+		public ResponseEntity autenticar_adm(@RequestBody AdministradorDto dto) {
 			
 			try {
 				Administrador adm_autenticado = service.autenticar_adm(dto.getEmail(), dto.getSenha());
@@ -50,6 +49,9 @@ import br.com.slim.NEDUC.service.AdministradorService;
 		
 			Administrador adm = Administrador.builder()
 					.nome(dto.getNome())
+					.celular(dto.getCelular())
+					.nascimento(dto.getNascimento())
+					.genero(dto.getGenero())
 					.email(dto.getEmail())
 					.senha(dto.getSenha()).build();
 			try {
