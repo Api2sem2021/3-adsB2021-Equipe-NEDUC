@@ -57,9 +57,22 @@ _Link para mostrar as telas realizadas no próprio figma._
 ### Tratamento de exceções ###
 ![exceções](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/Exce%C3%A7%C3%B5es.png)
 --------------------------------------------------------------------------------------------------------------------
-:desktop_computer: [Telas de Login e Cadastro]
+:desktop_computer: Telas de Login e Cadastro
 
-_Link para mostrar o arquivo das telas de login e cadastro._
+### Tela inicial ###
+![crud1](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/Cruds/crud1.png)
+
+### Tela de login do Aluno e do Professor ###
+![crud2](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/Cruds/crud2.png)
+
+### Tela de Cadastro do Aluno ###
+![crud3](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/Cruds/crud3.png)
+
+### Tela de Cadastro Professor ###
+![crud4](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/Cruds/crud4.png)
+
+### Tela de login do Gestor e do Administrador ###
+![crud5](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/Cruds/crud5.png)
 
 --------------------------------------------------------------------------------------------------------------------
 :dart: Banco de dados
