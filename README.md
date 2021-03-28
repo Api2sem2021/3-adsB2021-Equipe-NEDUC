@@ -15,7 +15,6 @@
 **:pushpin: _Em 28/03/2021 foi realizada a entrega de:_**
 
 - [x] Backlog (total e da sprint);
-- [x] Wireframes (Figma);
 - [x] Modelagem de dados;
 - [x] Telas de Login e cadastro;
 - [x] Tabelas do Banco de dados;
@@ -32,11 +31,6 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 ![Cópia de Tecnologias utilizadas](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/C%C3%B3pia%20de%20Tecnologias%20utilizadas.png)
 
 <a href="https://drive.google.com/file/d/1DXNG6m5TAhoHdeisg2suA9b_R5UXp1fN/view?usp=sharing" target="__blank">Clique para visualizar o Backlog total</a>
-
---------------------------------------------------------------------------------------------------------------------
-:desktop_computer: [Telas no Figma]
-
-_Link para mostrar as telas realizadas no próprio figma._
 
 --------------------------------------------------------------------------------------------------------------------
 :package: Modelagem de dados
