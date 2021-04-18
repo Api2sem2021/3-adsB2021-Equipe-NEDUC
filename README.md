@@ -58,8 +58,14 @@ OBS: O Front-end foi refeito nessa sprint.
 :dart: Banco de dados
 
 OBS: Nessa sprint, trocamos o banco de dados utilizado de PostgreSQL para MySQL.
+A estrutura continua a mesma!
 
-![]()
+--------------------------------------------------------------------------------------------------------------------
+:chart: Burndown 
+
+A estimativa ficou certa para essa sprint como mostra o gráfico abaixo:
+
+![Gráfico Burndown](https://github.com/DevSlim001/API_NEDUC/blob/sprint_2/Burdownsprint2.png)
 
 -------------
 
