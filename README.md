@@ -47,13 +47,13 @@ OBS: O Front-end foi refeito nessa sprint.
 
 ![homepage](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/homepage.gif)
 
-![divlogin](https://github.com/DevSlim001/API_NEDUC/blob/sprint2/readassets/divlogin.png)
+![divlogin](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/divlogin.png)
 
-![divcadastro](https://github.com/DevSlim001/API_NEDUC/blob/sprint2/readassets/divcadastro.png)
+![divcadastro](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/divcadastro.png)
 
-![logincadastro](https://github.com/DevSlim001/API_NEDUC/blob/sprint2/readassets/logincadastro.gif)
+![logincadastro](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/logincadastro.gif)
 
-![tarefasaluno](https://github.com/DevSlim001/API_NEDUC/blob/sprint2/readassets/tarefasaluno.png)
+![tarefasaluno](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/tarefasaluno.png)
 
 --------------------------------------------------------------------------------------------------------------------
 :dart: Banco de dados
