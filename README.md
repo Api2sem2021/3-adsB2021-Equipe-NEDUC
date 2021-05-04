@@ -1,14 +1,22 @@
 <h1 align="center">💻 nEDUC 📘</h1>
 
 <p align="center">
-    <a href="https://github.com">
-     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="gttps://github.com">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <a href="https://www.java.com/pt-BR/">
+        <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <a href="https://spring.io">
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+    <a href="https://www.mysql.com">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
 </p>
 <p align="left">
     <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&logo=appveyor">
@@ -32,7 +40,7 @@
 
 <h2 align="left">Índice</h2>
 <ul>
-    <li><a href="https://github.com/DevSlim001/API_NEDUC#-neduc-">nEDUC</a></li>
+    <li><a href=''>nEDUC</a></li>
     <ul>
         <li><a href="https://github.com/DevSlim001/API_NEDUC#--sobre-">Sobre</a>
         <li><a href="https://github.com/DevSlim001/API_NEDUC#neduc-fornece">nEDUC fornece</a>
