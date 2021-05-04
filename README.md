@@ -1,65 +1,54 @@
-# Sprint 2 - SLIM (TIME 2)
+<h1 align="center">💻 nEDUC 📘</h1>
 
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<p align="left">
+    <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&logo=appveyor">
+</p>
+<p align="left">
+    <img src="https://img.shields.io/badge/Sprint%20atual-Sprint%203-blue?style=for-the-badge&logo=appveyor">
+</p>
 
+> ㅤ
 
-## **_Realização da primeira entrega do projeto integrador do primeiro semestre de 2021_** :rocket:
+<h1 align="left"> 💡 Sobre </h1>
+<p align="justify">O nEDUC é um projeto realizado pelos alunos da <a href="http://fatecsjc-prd.azurewebsites.net">FATEC São José dos Campos</a> em parceria com a <a href="https://ness.com.br/health.php">NESS Health</a>, empresa de tecnologia que inova e transforma diariamente a área da saúde, implementando tecnologias que transformam a medicina moderna. Apresentando uma proposta diferente, a nEDUC é uma plataforma de ensino digital com ampla variedade de conteúdo de qualidade para superar as limitações do ensino no Brasil.</p>
+<p align="justify"> </a>
 
+<h2 align="left">Índice</h2>
+<ul>
+    <li><a href=''>nEDUC</a></li>
+    <ul>
+        <li><a href=''>Sobre</a></li>
+        <li><a href=''>nEDUC fornece</a></li>
+        <li><a href=''>Entregas</a></li>
+        <li><a href=''>Equipe de Desenvolvimento</a></li>
+    </ul>
+    </li>
+</ul>
 
+<h2>💻nEDUC fornece</h2>
 
-![CARD0]()
+- [x] Ensino de qualidade
+- [X] Um sistema completo e responsivo
+- [X] Análise de dados dos usuários
+- [X] Chatbot de atendimento
 
+<h2 align="left">🎯 Entregas</h2>
 
-
------------------------------------
-
-**:pushpin: _Em 28/03/2021 foi realizada a entrega de:_**
-
-- [x] Remodelagem do Banco de dados.
-- [x] Upload de arquivos para Aluno e Professor.
-- [x] Envio de email ao se cadastrar no site.
-- [x] "Esqueci minha senha"
-- [x] 
-- [x] 
-
-
-
-Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
-
----------------
-
-:book: Backlog
-
-![Cópia de Tecnologias utilizadas]()
-
---------------------------------------------------------------------------------------------------------------------
-:desktop_computer: [Telas no Figma]
-
-_Link para mostrar as telas realizadas no próprio figma._
-
---------------------------------------------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------------------------------------------
-:desktop_computer: [Telas de Login e Cadastro]
-
-_Link para mostrar o arquivo das telas de login e cadastro._
-
---------------------------------------------------------------------------------------------------------------------
-:dart: Banco de dados
-
-
--------------------------------------------------
-
-:man_technologist: Tecnologias utilizadas
-
-![Tecnologias utilizadas]()
-
-----------------------------
-
-
-
-### **DevTeam:**
-
-- **Front-end** *(<a href="https://github.com/brennorichard" target="__blank">Brenno Richard Rabelo de Almeida</a>, <a href="https://github.com/Rafael-BD" target="__blank">Rafael Bettini Dias</a>, <a href="https://github.com/nicursino" target="__blank">Nicolas Cursino Magarifuchi</a>)*
-- **Back- end** *(<a href="https://github.com/medrenan" target="__blank">Renan Alves de Medeiros</a>, <a href="https://github.com/camilaffpacheco" target="__blank">Camila Pacheco</a> e <a href="https://github.com/VGabrielMelo" target="__blank">Victor Gabriel Melo</a>)*
-
-- **Banco de dados** *(<a href="https://github.com/CristianMateusTB" target="__blank">Cristian Mateus Teixeira Barbosa</a>)*
+<h2 align="left"> 👨‍💻‍ Equipe de Desenvolvimento</h2>
+<ul>
+    <li><i>Scrum Master - </i><a href=''>Brenno Richard Rabelo de Almeida</a></li>
+    <li><i>Product Owner - </i><a href=''>Renan Alves de Medeiros</a></li>
+    <li><i>Dev Team - </i><a href=''>Camila Pacheco</a></li>
+    <li><i>Dev Team - </i><a href=''>Cristian Mateus Teixeira Barbosa</a></li>
+    <li><i>Dev Team - </i><a href=''>Nicolas Cursino Magarifuchi</a></li>
+    <li><i>Dev Team - </i><a href=''>Rafael Bettini Dias</a></li>
+    <li><i>Dev Team - </i><a href=''>Victor Gabriel Melo</a></li>
+</ul>
