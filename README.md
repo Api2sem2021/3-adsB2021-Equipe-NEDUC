@@ -21,24 +21,26 @@
 <p align="justify">O nEDUC é um projeto realizado pelos alunos da <a href="http://fatecsjc-prd.azurewebsites.net">FATEC São José dos Campos</a> em parceria com a <a href="https://ness.com.br/health.php">NESS Health</a>, empresa de tecnologia que inova e transforma diariamente a área da saúde, implementando tecnologias que transformam a medicina moderna. Apresentando uma proposta diferente, a nEDUC é uma plataforma de ensino digital com ampla variedade de conteúdo de qualidade para superar as limitações do ensino no Brasil.</p>
 <p align="justify"> </a>
 
-<h2 align="left">Índice</h2>
-<ul>
-    <li><a href=''>nEDUC</a></li>
-    <ul>
-        <li><a href=''>Sobre</a></li>
-        <li><a href=''>nEDUC fornece</a></li>
-        <li><a href=''>Entregas</a></li>
-        <li><a href=''>Equipe de Desenvolvimento</a></li>
-    </ul>
-    </li>
-</ul>
-
 <h2>💻nEDUC fornece</h2>
 
 - [x] Ensino de qualidade
 - [X] Um sistema completo e responsivo
 - [X] Análise de dados dos usuários
 - [X] Chatbot de atendimento
+
+<h2 align="left">Índice</h2>
+<ul>
+    <li><a href=''>nEDUC</a></li>
+    <ul>
+        <li><a href="https://github.com/DevSlim001/API_NEDUC#--sobre-">Sobre</a>
+        <li><a href="https://github.com/DevSlim001/API_NEDUC#neduc-fornece">nEDUC fornece</a>
+    </ul></ul>
+    <ul>
+        <li><a href="https://github.com/DevSlim001/API_NEDUC#-entregas">Entregas</a>
+        <li><a href="https://github.com/DevSlim001/API_NEDUC#-entregas">Equipe de Desenvolvimento</a>
+    </ul>
+    </li>
+</ul>
 
 <h2 align="left">🎯 Entregas</h2>
 
