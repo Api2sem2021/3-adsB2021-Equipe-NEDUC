@@ -30,7 +30,7 @@
 
 <h2 align="left">Índice</h2>
 <ul>
-    <li><a href=''>nEDUC</a></li>
+    <li><a href="https://github.com/DevSlim001/API_NEDUC#-neduc-">nEDUC</a></li>
     <ul>
         <li><a href="https://github.com/DevSlim001/API_NEDUC#--sobre-">Sobre</a>
         <li><a href="https://github.com/DevSlim001/API_NEDUC#neduc-fornece">nEDUC fornece</a>
