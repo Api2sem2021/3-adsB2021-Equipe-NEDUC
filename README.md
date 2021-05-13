@@ -125,4 +125,3 @@ Pensando nas pessoas que poderiam ter alguma dificuldade na utilização da plat
 
 ----------------
 
-# Disciplina Focal Point :warning::dagger:
