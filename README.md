@@ -12,6 +12,7 @@
 
 -----------------------------------
 
+
 **:pushpin: _Em 28/03/2021 foi realizada a entrega de:_**
 
 - [x] Backlog (total e da sprint);
@@ -69,6 +70,12 @@ Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links ge
 ![crud5](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/Cruds/crud5.png)
 
 --------------------------------------------------------------------------------------------------------------------
+:dart: MVP
+
+- [x] Implementação de envio de e-mails
+- [x] Gestão com crud das entidades aluno e professor
+
+----------------
 :dart: Banco de dados
 
 ### Representação do Banco de dados ###
