@@ -56,6 +56,12 @@ OBS: O Front-end foi refeito nessa sprint.
 ![tarefasaluno](https://github.com/DevSlim001/API_NEDUC/blob/sprint0/readassets/tarefasaluno.png)
 
 --------------------------------------------------------------------------------------------------------------------
+:dart: MVP
+
+- [x] implementação de envio de e-mails
+- [x] gestão com crud das entidades aluno e professor
+
+----------------
 :dart: Banco de dados
 
 OBS: Nessa sprint, trocamos o banco de dados utilizado de PostgreSQL para MySQL.
@@ -75,6 +81,7 @@ A estimativa ficou certa para essa sprint como mostra o gráfico abaixo:
 ![Tecnologias2](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Tecnologias2.png)
 
 ----------------
+
 
 ### **DevTeam:**
 
