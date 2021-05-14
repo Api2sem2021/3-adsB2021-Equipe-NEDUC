@@ -58,8 +58,8 @@ OBS: O Front-end foi refeito nessa sprint.
 --------------------------------------------------------------------------------------------------------------------
 :dart: MVP
 
-- [x] implementação de envio de e-mails
-- [x] gestão com crud das entidades aluno e professor
+- [x] Implementação de envio de e-mails
+- [x] Gestão com crud das entidades aluno e professor
 
 ----------------
 :dart: Banco de dados
