@@ -4,7 +4,7 @@
 
 
 
-![]()
+![CARD3](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/CARD3.png)
 
 
 
