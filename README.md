@@ -61,6 +61,8 @@ OBS: O Front-end foi refeito nessa sprint.
 - [x] Implementação de envio de e-mails
 - [x] Gestão com crud das entidades aluno e professor
 
+![Funcionamento_Sprint2 (2)](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Funcionamento_Sprint2%20(2).gif)
+
 ----------------
 :dart: Banco de dados
 
