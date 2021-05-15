@@ -19,6 +19,7 @@
 - [x] Atualização de Wireframes;
 - [x] Responsividade das telas;
 - [x] Visualização do feed de notícias;
+- [x] Visualização de cursos cadastrados;
 - [x] ChatBot
 
 ---------------
