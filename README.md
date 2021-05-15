@@ -10,13 +10,16 @@
 
 -----------------------------------
 
-**:pushpin: _Em 18/04/2021 foi realizada a entrega de:_**
+**:pushpin: _Em 15/05/2021 foi realizada a entrega de:_**
 
-- [x] Remodelagem do Banco de dados;
-- [x] Front-end refeito;
-- [x] Upload de arquivos para Aluno e Professor;
-- [x] Envio de e-mail ao se cadastrar no site;
-- [x] "Esqueci minha senha".
+- [x] Aplicação do Spring Security;
+- [x] Encriptação de senhas;
+- [x] Cadastro de Cursos;
+- [x] Cadastro no Feed de notícias;
+- [x] Atualização de Wireframes;
+- [x] Responsividade das telas;
+- [x] Visualização do feed de notícias;
+- [x] ChatBot
 
 ---------------
 
