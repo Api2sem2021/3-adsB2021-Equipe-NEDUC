@@ -47,7 +47,15 @@
 
 :desktop_computer: Wireframes
 
+![novocurso](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/novocurso.png)
 
+![cursosview](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosview.gif)
+
+![]()
+
+![]()
+
+![]()
 
 --------------------------------------------------------------------------------------------------------------------
 :dart: MVP
