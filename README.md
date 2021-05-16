@@ -25,6 +25,7 @@
 - [x] :book: Backlog;
 - [x] :desktop_computer: Wireframes;
 - [x] :dart: Banco de dados;
+- [x] :dart: MVP da Sprint;
 - [x] :chart: Burndown;
 - [x] :man_technologist: Tecnologias utilizadas;
 - [x] :busts_in_silhouette: DevTeam.
