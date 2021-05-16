@@ -45,7 +45,6 @@
     <li><a href="https://github.com/brennorichard/FrontEnd-API2021#uso-da-plataforma-computersos">Uso da Plataforma</a></li>
     <li><a href="https://github.com/brennorichard/FrontEnd-API2021#entregas-dartpackage">Entregas</a></li>
     <li><a href="https://github.com/brennorichard/FrontEnd-API2021#equipe-de-desenvolvimento-man_technologistwoman_technologist">Equipe de Desenvolvimento</a></li>
-    <li><a href="https://github.com/brennorichard/FrontEnd-API2021#disciplina-focal-point-warningdagger">Focal Point</a></li>
   </ol>
 </details>
 
