@@ -10,7 +10,7 @@
 
 -----------------------------------
 
-**:pushpin: _Em 15/05/2021 foi realizada a entrega de:_**
+**:pushpin: _Em 16/05/2021 foi realizada a entrega de:_**
 
 - [x] Aplicação do Spring Security;
 - [x] Encriptação de senhas;
