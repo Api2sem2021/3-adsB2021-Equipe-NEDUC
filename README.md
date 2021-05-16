@@ -51,6 +51,10 @@
 
 ![cursosview](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosview.gif)
 
+![atividades](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/atividades.jpeg)
+
+![]()
+
 ![]()
 
 ![]()
