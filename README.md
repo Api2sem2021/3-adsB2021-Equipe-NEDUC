@@ -68,6 +68,7 @@
 ![]()
 
 - [x] ChatBot + Responsividade
+
 ![Responsividade](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Responsividade.gif)
 
 --------------------------------------------------------------------------------------------------------------------
