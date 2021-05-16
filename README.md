@@ -103,9 +103,10 @@ Pensando nas pessoas que poderiam ter alguma dificuldade na utilização da plat
 
 # Entregas :dart::package:
 
-
-
-
+- [x] Primeira Sprint - 28/03/2021
+- [x] Segunda Sprint  - 18/04/2021
+- [x] Terceira Sprint - 16/05/2021
+- [x] Quarta Sprint   - à confirmar
 
 -----------------
 
