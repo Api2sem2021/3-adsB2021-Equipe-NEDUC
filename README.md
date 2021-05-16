@@ -64,7 +64,7 @@
 --------------------------------------------------------------------------------------------------------------------
 :chart: Burndown 
 
-A estimativa ficou certa para essa sprint como mostra o gráfico abaixo:
+1 hora à menos devido a rapidez nos testes como mostra o gráfico abaixo:
 
 ![burndonw3](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/burndonw3.jpeg)
 
