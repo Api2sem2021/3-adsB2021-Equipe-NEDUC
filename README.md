@@ -53,8 +53,17 @@
 --------------------------------------------------------------------------------------------------------------------
 :dart: MVP
 
-- [x] Implementação de envio de e-mails
-- [x] Gestão com crud das entidades aluno e professor
+- [x] Aplicação do Spring Security e encriptografia de senhas
+![]()
+
+- [x] ChatBot
+![chatbot](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/chatbot.gif)
+
+- [x] Responsividade
+![]()
+
+
+
 
 ----------------
 :dart: Banco de dados
@@ -67,7 +76,7 @@ A estrutura continua a mesma!
 
 A estimativa ficou certa para essa sprint como mostra o gráfico abaixo:
 
-![]()
+![burndonw3](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/burndonw3.jpeg)
 
 -------------
 
