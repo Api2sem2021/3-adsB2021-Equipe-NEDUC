@@ -29,7 +29,6 @@
 - [x] :book: Backlog;
 - [x] :desktop_computer: Wireframes;
 - [x] :dart:MVP da Sprint;
-- [x] :dart: Banco de dados;
 - [x] :chart: Burndown;
 - [x] :man_technologist: Tecnologias utilizadas;
 - [x] :busts_in_silhouette: DevTeam.
@@ -61,15 +60,6 @@
 
 - [x] Responsividade
 ![]()
-
-
-
-
-----------------
-:dart: Banco de dados
-
-OBS: Nessa sprint, trocamos o banco de dados utilizado de PostgreSQL para MySQL.
-A estrutura continua a mesma!
 
 --------------------------------------------------------------------------------------------------------------------
 :chart: Burndown 
