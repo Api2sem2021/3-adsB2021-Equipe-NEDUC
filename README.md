@@ -67,12 +67,8 @@
 - [x] Aplicação do Spring Security e encriptografia de senhas
 ![]()
 
-- [x] ChatBot
-
-![chatbot](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/chatbot.gif)
-
-- [x] Responsividade
-![]()
+- [x] ChatBot + Responsividade
+![Responsividade](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Responsividade.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 :chart: Burndown 
