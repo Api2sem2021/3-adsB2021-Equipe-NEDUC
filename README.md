@@ -4,7 +4,7 @@
 
 
 
-![CARD3](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/CARD3.png)
+![CARD3 (1)](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/CARD3%20(1).png)
 
 
 
@@ -15,10 +15,8 @@
 - [x] Aplicação do Spring Security;
 - [x] Encriptação de senhas;
 - [x] Cadastro de Cursos;
-- [x] Cadastro no Feed de notícias;
 - [x] Atualização de Wireframes;
 - [x] Responsividade das telas;
-- [x] Visualização do feed de notícias;
 - [x] Visualização de cursos cadastrados;
 - [x] ChatBot
 
