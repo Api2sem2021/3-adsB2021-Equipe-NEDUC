@@ -62,13 +62,17 @@
 --------------------------------------------------------------------------------------------------------------------
 :dart: MVP
 
-- [x] Aplicação do Spring Security e encriptografia de senhas
+- [x] Encriptografia de senhas
 
 ![Encriptografia](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Encriptografia.gif)
 
 - [x] ChatBot + Responsividade
 
 ![Responsividade](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Responsividade.gif)
+
+- [x]  Cadastro de Cursos e tarefas
+
+![Cadastro-de-curso-e-tarefa](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Cadastro-de-curso-e-tarefa.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 :chart: Burndown 
