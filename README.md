@@ -63,7 +63,8 @@
 :dart: MVP
 
 - [x] Aplicação do Spring Security e encriptografia de senhas
-![]()
+
+![Encriptografia](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Encriptografia.gif)
 
 - [x] ChatBot + Responsividade
 
