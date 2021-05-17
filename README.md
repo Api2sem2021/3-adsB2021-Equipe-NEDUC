@@ -55,13 +55,9 @@
 
 ![cursosview](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosview.gif)
 
-![]()
+![inicioaluno](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/inicioaluno.png)
 
-![]()
-
-![]()
-
-![]()
+![cursosaluno](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosaluno.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
