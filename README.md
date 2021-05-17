@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
    :book: nEDUC :books:
-</p>
+</h1>
 
 # :book: nEDUC :books:
 
