@@ -35,7 +35,9 @@
 
 ---------------------------------
 
-:book: Backlog
+<h1 align="center">
+   :book: Backlog
+</h1>
 
 ![Backlog3 (1)](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Backlog3%20(1).png)
 
@@ -45,7 +47,9 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-:desktop_computer: Wireframes
+<h1 align="center">
+   :desktop_computer: Wireframes
+</h1>
 
 ![novocurso](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/novocurso.png)
 
@@ -60,7 +64,10 @@
 ![]()
 
 --------------------------------------------------------------------------------------------------------------------
-:dart: MVP
+
+<h1 align="center">
+   :dart: MVP
+</h1>
 
 - [x] Encriptografia de senhas
 
@@ -75,7 +82,10 @@
 ![Cadastro-de-curso-e-tarefa](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Cadastro-de-curso-e-tarefa.gif)
 
 --------------------------------------------------------------------------------------------------------------------
-:chart: Burndown 
+
+<h1 align="center">
+   :chart: Burndown 
+</h1>
 
 1 hora à menos devido a rapidez nos testes como mostra o gráfico abaixo:
 
@@ -89,8 +99,9 @@
 
 ----------------
 
-
-### **DevTeam:**
+<h1 align="center">
+   **DevTeam:**
+</h1>
 
 - **Front-end** *(<a href="https://github.com/brennorichard" target="__blank">Brenno Richard Rabelo de Almeida</a>, <a href="https://github.com/Rafael-BD" target="__blank">Rafael Bettini Dias</a>, <a href="https://github.com/nicursino" target="__blank">Nicolas Cursino Magarifuchi</a>)*
 - **Back- end** *(<a href="https://github.com/medrenan" target="__blank">Renan Alves de Medeiros</a>, <a href="https://github.com/camilaffpacheco" target="__blank">Camila Pacheco</a> e <a href="https://github.com/VGabrielMelo" target="__blank">Victor Gabriel Melo</a>)*
