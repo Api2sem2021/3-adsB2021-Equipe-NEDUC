@@ -1,5 +1,5 @@
 <p align="center">
-    <h1> :book: nEDUC :books: </h1>
+   :book: nEDUC :books:
 </p>
 
 # :book: nEDUC :books:
