@@ -20,6 +20,7 @@
 - [x] Atualização de Wireframes;
 - [x] Responsividade das telas;
 - [x] Visualização de cursos cadastrados;
+- [x] Ajuda ao usuário
 - [x] ChatBot
 
 ---------------
@@ -57,7 +58,7 @@
 
 ![inicioaluno](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/inicioaluno.png)
 
-![cursosaluno](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosaluno.png)
+![ajuda](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/ajuda.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
