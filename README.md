@@ -93,14 +93,16 @@
 
 -------------
 
-:man_technologist: Tecnologias utilizadas
+<h1 align="center">
+   :man_technologist: Tecnologias utilizadas
+</h1>
 
 ![Tecnologias2](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Tecnologias2.png)
 
 ----------------
 
 <h1 align="center">
-   **DevTeam:**
+   DevTeam:man_technologist::woman_technologist:
 </h1>
 
 - **Front-end** *(<a href="https://github.com/brennorichard" target="__blank">Brenno Richard Rabelo de Almeida</a>, <a href="https://github.com/Rafael-BD" target="__blank">Rafael Bettini Dias</a>, <a href="https://github.com/nicursino" target="__blank">Nicolas Cursino Magarifuchi</a>)*
