@@ -1,3 +1,7 @@
+<p align="center">
+    <h1> :book: nEDUC :books: </h1>
+</p>
+
 # :book: nEDUC :books:
 
 ## **_Realização da terceira entrega do projeto integrador do primeiro semestre de 2021_** :rocket:
