@@ -94,7 +94,7 @@ Visando os fatores citados, a empresa parceira, e a FATEC de São José dos camp
 
 Pensando nas pessoas que poderiam ter alguma dificuldade na utilização da plataforma, disponibilizamos uma documentação para auxiliar no uso de todas as funcionalidade que a nEDUC oferece. 
 
-<a href="" target="__blank">Clique aqui para acessar a documentação</a>
+<a href="https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Ajuda%20ao%20usuario.pdf" target="__blank">Clique aqui para acessar a documentação</a>
 
 
 
