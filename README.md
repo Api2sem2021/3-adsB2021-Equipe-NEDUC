@@ -6,13 +6,13 @@
 
 
 
-![CARD3 (1)](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/CARD3%20(1).png)
+![CARD4](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/CARD4.png)
 
 
 
 -----------------------------------
 
-**:pushpin: _Em 16/05/2021 foi realizada a entrega de:_**
+**:pushpin: _Em 06/06/2021 foi realizada a entrega de:_**
 
 - [x] Aplicação do Spring Security;
 - [x] Encriptação de senhas;
@@ -40,7 +40,7 @@
    :book: Backlog
 </h1>
 
-![Backlog3 (1)](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Backlog3%20(1).png)
+![Backlog4](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Backlog4.png)
 
 
 
