@@ -14,14 +14,14 @@
 
 **:pushpin: _Em 06/06/2021 foi realizada a entrega de:_**
 
-- [x] Aplicação do Spring Security;
-- [x] Encriptação de senhas;
-- [x] Cadastro de Cursos;
-- [x] Atualização de Wireframes;
-- [x] Responsividade das telas;
-- [x] Visualização de cursos cadastrados;
-- [x] Ajuda ao usuário
-- [x] ChatBot
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
 
 ---------------
 
@@ -52,13 +52,13 @@
    :desktop_computer: Wireframes
 </h1>
 
-![novocurso](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/novocurso.png)
+![]()
 
-![cursosview](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosview.gif)
+![]()
 
-![inicioaluno](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/inicioaluno.png)
+![]()
 
-![ajuda](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/ajuda.png)
+![]()
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -66,17 +66,17 @@
    :dart: MVP
 </h1>
 
-- [x] Encriptografia de senhas
+- [x] 
 
-![Encriptografia](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Encriptografia.gif)
+![]()
 
-- [x] ChatBot + Responsividade
+- [x] 
 
-![Responsividade](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Responsividade.gif)
+![]()
 
-- [x]  Cadastro de Cursos e tarefas
+- [x]  
 
-![Cadastro-de-curso-e-tarefa](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Cadastro-de-curso-e-tarefa.gif)
+![]()
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@
 
 OBS: 1 hora à menos devido a rapidez nos testes como mostra o gráfico abaixo:
 
-![burndonw3](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/burndonw3.jpeg)
+![]()
 
 -------------
 
