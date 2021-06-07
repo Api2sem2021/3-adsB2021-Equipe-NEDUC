@@ -65,15 +65,15 @@
 
 - [x] Novas Funcionalidades do Administrador
 
-![]()
+![ADM](https://github.com/DevSlim001/API_NEDUC/blob/sprint_4/Cadastrodenovidades.gif)
 
 - [x] Novas Funcionalidades do Gestor
 
-![]()
+![GESTOR](https://github.com/DevSlim001/API_NEDUC/blob/sprint_4/Homegestor.gif)
 
 - [x] Emissão de certificados
 
-![]()
+![CERTIFICADO](https://github.com/DevSlim001/API_NEDUC/blob/sprint_4/Gerarcertificado.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 
