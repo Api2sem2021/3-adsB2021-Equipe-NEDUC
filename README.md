@@ -2,7 +2,7 @@
    :book: nEDUC :books:
 </h1>
 
-## **_Realização da terceira entrega do projeto integrador do primeiro semestre de 2021_** :rocket:
+## **_Realização da quarta e última entrega do projeto integrador do primeiro semestre de 2021_** :rocket:
 
 
 
@@ -14,14 +14,11 @@
 
 **:pushpin: _Em 06/06/2021 foi realizada a entrega de:_**
 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] Novas Funcionalidades do Administrador;
+- [x] Novas Funcionalidades do Gestor;
+- [x] Melhoria da troca de senha;
+- [x] Gerador de certificados para cursos;
+- [x] Atualização dos Cruds;
 
 ---------------
 
@@ -52,13 +49,13 @@
    :desktop_computer: Wireframes
 </h1>
 
-![]()
+![homealuno](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/homealuno.gif)
 
-![]()
+![homeadm0](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/homeadm0.png)
 
-![]()
+![homeadm1](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/homeadm1.png)
 
-![]()
+![homeprofessor](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/homeprofessor.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -66,15 +63,15 @@
    :dart: MVP
 </h1>
 
-- [x] 
+- [x] Novas Funcionalidades do Administrador
 
 ![]()
 
-- [x] 
+- [x] Novas Funcionalidades do Gestor
 
 ![]()
 
-- [x]  
+- [x] Emissão de certificados
 
 ![]()
 
@@ -83,8 +80,6 @@
 <h1 align="center">
    :chart: Burndown 
 </h1>
-
-OBS: 1 hora à menos devido a rapidez nos testes como mostra o gráfico abaixo:
 
 ![]()
 
